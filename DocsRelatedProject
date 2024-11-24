@@ -1,0 +1,25 @@
+In this project I had done following things:
+
+1)Firstly starting I have created a folder name as weather-app-yt .
+2)Now i had added dependency related to tailwind css
+3)Now i open the documentation of open-meteo api and then select checboxes based on temperature like 
+humidity, windspeed, temperature
+4)Afterward i had copied API link from below
+5) Afterward i open the project with vs code and then install dependency for tailwind css
+6) Afterward i had open material-ui icon and then install it's dependecy
+7) Now i deownload the country-state-city npm package
+8) Now i install npm react-select package
+9) Now i want to create selection from city and country such that select is used for it.
+10) For adding country and city i had made seperate function for them so that they can be handled seperately.
+11) Since i had used package then i can select any country and it's city  , i had also provide get weather button
+which provides result of it.
+12) Afterward i try to print longitude and latitude of it.
+13) Now i want to make these things in left align so i uses flex for it then it would get left aligned.
+and whenever user click on get weather button then temperature, humidity and wind speed would be get printed.
+14) Now i had installed so that i can use card,and display temperature humidity on centre. Also i want to use
+open-meteo-api hence i had installed it.
+15)Now for fetching the data using the api i am using variable for it.And then setWeatherDetails from this constant
+16) Now i had stored hunidity , temperature , windspeed in the variable and displaying it in three column using flex for it. Hence it become more visible.
+17) Created several div tag for it and store these things on it.
+
+  
